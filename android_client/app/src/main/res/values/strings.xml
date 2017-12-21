@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IDSProject</string>
+    <string name="action_settings">Cerca Aggiornamenti</string>
+	<string name="turn_on_flashlight">Accendi Flash</string>
+    <string name="turn_off_flashlight">Spegni Flash</string>
+    <string name="nome">Nome</string>
+    <string name="cognome">Cognome</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="registra">Crea Account</string>
+    <string name="login">Login</string>
+    <string name="linkLogin">Gia\' registrato? Loggati</string>
+    <string name="linkRegistra">Non ancora registrato? Crea un account</string>
+    <string name="accedi">Accedi</string>
+    <string name="registrati">Registrati</string>
+    <string name="skip_login">Salta Login!</string>
+</resources>
